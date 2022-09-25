@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/seduce/VSCode/VS-C++/Skiplist/main.cpp
+skiplist.h
+/home/seduce/VSCode/VS-C++/Skiplist/skiplist.h
+
+/home/seduce/VSCode/VS-C++/Skiplist/skiplist.h
+cmath
+-
+cstdlib
+-
+cstring
+-
+fstream
+-
+iostream
+-
+mutex
+-
+
